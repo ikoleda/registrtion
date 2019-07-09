@@ -1,0 +1,17 @@
+div, form ,a {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+input{
+	margin-bottom: 10px;
+	width: 200px;
+}
+.messageBox{
+	color: red;
+	font-size: 1em;
+}
+
+
